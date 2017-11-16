@@ -4,7 +4,7 @@ title: "Visualization"
 date: 2017-11-10
 ---
 
-![Illustration of ants forming the word "Emergence" but it is misspelled as "Emergecne](http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg "Credit: The Graphic Recorder"= 200px)
+![Topographic mac of a variety of knowledge domains, connected by red lines](/images/Self_oraganizing_map_cartography.jpg "Credit: https://upload.wikimedia.org/wikipedia/en/0/07/Self_oraganizing_map_cartography.jpg")
 
 In a kind of meta way, the readings on visualization lead to an emergence of their own, whose corpus (if I can appropriate the term to mean their aggregate) revealed a structure based on _definition, patterns and emergence, and design and tools._
 
@@ -30,13 +30,13 @@ But I digress. While the technology may enable us to have a higher resolution of
 
 In “Principles of Information Visualization” we are presented with a useful checklist for good visualizations:
 
-.Pick your data
+1.Pick your data
 
-.Pick your visualization type
+2.Pick your visualization type
 
-.Pick your graphic variables
+3.Pick your graphic variables
 
-.Follow basic design principles (paragraph 124)
+4.Follow basic design principles (paragraph 124)
 
 To which I would add, KNOW YOUR AUDIENCE! This last one is very important since it should guide the other four in making sure that your visualization maintains a high level of relevance.
 
