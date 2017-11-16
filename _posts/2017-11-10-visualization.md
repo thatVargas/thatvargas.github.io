@@ -4,7 +4,11 @@ title: "Visualization"
 date: 2017-11-10
 ---
 
-<img src="http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg" ALT="Illustration of ants forming the word "Emergence" but it is misspelled as "Emergecne" width="200px" height="200px" />
+{::nomarkdown}
+
+<!-- img src="http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg" ALT="Illustration of ants forming the word "Emergence" but it is misspelled as "Emergecne" width="200px" height="200px"  -->
+
+{:/} 
 
 ![Illustration of ants forming the word "Emergence" but it is misspelled as "Emergecne](http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg "Credit: The Graphic Recorder")
 
