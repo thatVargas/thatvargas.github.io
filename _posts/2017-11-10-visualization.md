@@ -31,11 +31,8 @@ But I digress. While the technology may enable us to have a higher resolution of
 In “Principles of Information Visualization” we are presented with a useful checklist for good visualizations:
 
 1.Pick your data
-
 2.Pick your visualization type
-
 3.Pick your graphic variables
-
 4.Follow basic design principles (paragraph 124)
 
 To which I would add, KNOW YOUR AUDIENCE! This last one is very important since it should guide the other four in making sure that your visualization maintains a high level of relevance.
