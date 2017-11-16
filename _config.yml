@@ -1,2 +1,3 @@
 name: Álvaro Vargas
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
