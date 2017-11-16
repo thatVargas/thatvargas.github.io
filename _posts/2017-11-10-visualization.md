@@ -4,13 +4,7 @@ title: "Visualization"
 date: 2017-11-10
 ---
 
-{::nomarkdown}
-
-<!-- img src="http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg" ALT="Illustration of ants forming the word "Emergence" but it is misspelled as "Emergecne" width="200px" height="200px"  -->
-
-{:/} 
-
-![Illustration of ants forming the word "Emergence" but it is misspelled as "Emergecne](http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg "Credit: The Graphic Recorder")
+![Illustration of ants forming the word "Emergence" but it is misspelled as "Emergecne](http://www.thegraphicrecorder.com/wp-content/uploads/2012/01/Emergence.jpg "Credit: The Graphic Recorder" width="200")
 
 In a kind of meta way, the readings on visualization lead to an emergence of their own, whose corpus (if I can appropriate the term to mean their aggregate) revealed a structure based on _definition, patterns and emergence, and design and tools._
 
