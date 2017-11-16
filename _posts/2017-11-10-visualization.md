@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visualization"
+title: "Visualization - emergence through patterns"
 date: 2017-11-10
 ---
 
@@ -8,13 +8,13 @@ date: 2017-11-10
 
 In a kind of meta way, the readings on visualization lead to an emergence of their own, whose corpus (if I can appropriate the term to mean their aggregate) revealed a structure based on _definition, patterns and emergence, and design and tools._
 
-**Definition(s)**
+## Definition(s)
 
 Perhaps one of my favourite short definitions was from Lev Manovich in “What is Visualization” where she writes,
 
 Going beyond the short to a more fulsome definition, there are a few more concepts that pop up however. The notion of the macroscope is a great way of thinking of the role of visualizations because it engenders notions of seeing the big picture, and the possible connections that may become apparent as a result; connections that may have otherwise gone unseen. I once attended a workshop with Edward Tufte in Dallas, TX, and he talked about how our desire to communicate patterns through aggregation of data into visual representations has been around for a while as a way of bringing out big strategic concepts, thus allowing for tactical deep dives into specifics, anchored in the whole. This macroscopic view allows us to see patterns and interesting points of exploration.
 
-**Patterns and emergence**
+## Patterns and emergence
 
 The beauty of a good visualization lies in its ability to allow one to look for (and see) patterns within them. Whether it’s Mainard’s Napoleon Map, or Manovich’s Inequaligram Project, I find this to be the essence of visualization in practice. It's about allowing for the emergence of patterns that allow you to see connections between things that may not intuitively exist, yet once you see them they become obvious. It's a way of making the strange, familiar through a kind of “distant reading” that enables pattern finding and aligning to things we have seen before, as starting points to further exploration.
 
@@ -22,7 +22,7 @@ In my work with user experience (UX) design, visualizations such as chord diagra
 
 The use of this type of methodology gives us traceability to design decisions, which can ultimately help us when we need to justify a design decision.
 
-**Design and tools**
+## Design and tools
 
 To pick up from the previous section, when we use “data as evidence”, as written by Trevor Owens, with visualizations, we need to find ways of presenting it to make it defensible “against alternative explanations”. However, what's interesting here is that it is also dependant on the complexity of the full data set that you are dealing with vs. the subset that you are using for your visualization. But this can also cause analysis paralysis. So, at some point I think you just have to state your assumptions and say "based on that and this data, I interpret it as this" and then support that with other similar interpretations that support your argument. A lot of science, after all, is about consensus. Just look at what's happened to poor Pluto in the last 25 years.
 
@@ -47,7 +47,7 @@ I am curious as to whether the current trend towards eschewing long-form content
 
 Our task, as designers of visualizations in support of content, is to make sure that we are not leaving room for misrepresentation of the data without gaining the fuller context of the text that accompanies and supports it.
 
-**So…**
+## So…
 
 There is actually no super way of concluding this. Looking at it from the culture lens, visualizations are a great way to find the nuances in our research, especially when there is an increasing amount of open data out there that we can play with.
 
