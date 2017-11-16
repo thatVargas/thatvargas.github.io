@@ -4,7 +4,7 @@ title: "Visualization - emergence through patterns"
 date: 2017-11-10
 ---
 
-[Topographic mac of a variety of knowledge domains, connected by red lines](/images/Self_oraganizing_map_cartography.jpg "Credit: https://upload.wikimedia.org/wikipedia/en/0/07/Self_oraganizing_map_cartography.jpg")
+![Topographic mac of a variety of knowledge domains, connected by red lines](/images/Self_oraganizing_map_cartography.jpg "Credit: https://upload.wikimedia.org/wikipedia/en/0/07/Self_oraganizing_map_cartography.jpg")
 
 In a kind of meta way, the readings on visualization lead to an emergence of their own, whose corpus (if I can appropriate the term to mean their aggregate) revealed a structure based on _definition, patterns and emergence, and design and tools._
 
