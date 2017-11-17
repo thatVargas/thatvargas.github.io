@@ -11,6 +11,8 @@ In a kind of meta way, the [readings on visualization](https://dhcu.ca/portfolio
 
 Perhaps one of my favourite short definitions was from Lev Manovich in “What is Visualization” where she writes,
 
+> “Let's define information visualization as a mapping between discrete data and a visual representation.”(p.23)
+
 Going beyond the short to a more fulsome definition, there are a few more concepts that pop up however. The notion of the macroscope is a great way of thinking of the role of visualizations because it engenders notions of seeing the big picture, and the possible connections that may become apparent as a result; connections that may have otherwise gone unseen. I once attended a workshop with Edward Tufte in Dallas, TX, and he talked about how our desire to communicate patterns through aggregation of data into visual representations has been around for a while as a way of bringing out big strategic concepts, thus allowing for tactical deep dives into specifics, anchored in the whole. This macroscopic view allows us to see patterns and interesting points of exploration.
 
 ## Patterns and emergence
