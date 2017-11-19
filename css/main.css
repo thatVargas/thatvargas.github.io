@@ -1,6 +1,6 @@
 body { margin: 60px auto; width: 70%; }
 
-a { text-decoration: none; color: #636386; }
+a { text-decoration: bold; color: #636386; }
 a:hover { text-decoration: underline; }
 
 img.wrap {float: right}
