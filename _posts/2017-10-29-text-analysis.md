@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finding meaning, making meaning with text analysis."
+title: "Finding meaning, making meaning, with text analysis."
 
 ---
 <span style="display:block;text-align:center">![Dull green/black metal cube facing camera at a slight angle, with a single skinny, wide slit at the bottom of the front face, against a white background](/images/LOU-MESSING-faith-cube.jpg "Credit: https://flic.kr/p/fnhua")</span>
