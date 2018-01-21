@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Social Media"
+title: "Social Media - The world through a rectangle"
 ---
-<span style="display:block;text-align:center">![Vintage black and white image of a crowd in a movie theatre wearing cardboard 3D glasses and staring towards a screen](/images/3d-crowd.jpg "Credit: http://surelyyourenotserious.com/share/Blog/Movies/3DAudience.jpg")</span>
+<span style="display:block;text-align:center">![ Image stylyized to look pixelated of two hands holding up smart phone up to each other so that the screens are toucing.](/images/phones-interacting.jpg "Credit: http://surelyyourenotserious.com/share/Blog/Movies/3DAudience.jpg")</span>
 
 ## Knowledge and Power
 
@@ -42,5 +42,5 @@ It is worrying that a social media platform has become a historical source for a
   
   ## What Next?
 
-While I agree with the notions of making sure that we become literate in our approach to technology and knowledge of the digital footprints we leave behind, we need to be careful to consider the full complexity of the impacts of social media and how this will help or hinder the relationships at different scales of the socio-cultural landscape, especially in the face of an ever-increasing population and increasing conflicts over resources and identities. These may well require an adaptation in our expectations of things such as privacy at certain levels towards notions of a "greater good". But that will bring with it, its own set complexities. Looks like we'll have our work cut out for us.
+While I agree with the notions of making sure that we become literate in our approach to technology and knowledge of the digital footprints we leave behind, we need to be careful to consider the full complexity of the impacts of social media and how this will help or hinder the relationships at different scales of the socio-cultural landscape, especially in the face of an ever-increasing population and increasing conflicts over resources and identities. These may well require an adaptation in our expectations of things such as privacy at certain levels towards notions of a "greater good". But that will bring with it, its own set complexities. Looks like we'll have our work cut out for us, as we relate to the world through our rectangles.
 
