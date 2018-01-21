@@ -9,6 +9,7 @@ title: "Social Media - The world through a rectangle"
 > Definition of social media from Merriam-Webster: forms of electronic communication - such as websites for social networking and microblogging - through which users create online communities to share information, ideas, personal messages, and other content - such as videos.
 > _First Known Use: 2004_
 
+Although an "official" definition, in terms of DH, it seems to be lacking.
 
 ## Knowledge and Power
 
