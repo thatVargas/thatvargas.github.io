@@ -2,7 +2,14 @@
 layout: post
 title: "Social Media - The world through a rectangle"
 ---
-<span style="display:block;text-align:center">![ Image stylyized to look pixelated of two hands holding up smart phone up to each other so that the screens are toucing.](/images/phones-interacting.jpg "Credit: http://surelyyourenotserious.com/share/Blog/Movies/3DAudience.jpg")</span>
+<span style="display:block;text-align:center">![ Image stylyized to look pixelated of two hands holding up smart phone up to each other so that the screens are toucing.](/images/phones-interacting.jpg "Credit:https://pxhere.com/en/photo/1086926")</span>
+
+## Definition?
+
+> Definition of social media from Merriam-Webster
+>: forms of electronic communication (such as websites for social networking and microblogging) through which users create online communities to share information, ideas, personal messages, and other content (such as videos)
+> First Known Use: 2004
+
 
 ## Knowledge and Power
 
@@ -34,7 +41,7 @@ We seem to be in an interesting liminal state with technology, in which the scal
 
 In a very connected world, it I important to teach people (young and old) about what it means to be part of a digital ecosystem by teaching media literacy. This kind of preparation would work wonders in terms of informing students about the relationships between products and producers in the information/knowledge economy.
   
-At the same time, it is important to maintain the discourse on who has access to and owns the data that we produce, whether actively (through intentional production) or passively (through the trail we leave as we move through the digital landscape). This raises issues as it relates to privacy, especially in in the age of the Internet of Things, where more and more passive components of our lives have the capability of becoming listening posts. Especially as connectivity of devices becomes increasingly embedded and the fact that an object may be able to do more than what its affordances would suggest becomes easily missed or overlooked. The issue to whether a device such as Amazon’s Alexa or Google’s Home could become passive witnesses in the case of criminal activity, will make for interesting precedents to be set about privacy in the future. ( bloomberg.com/news/articles/2016-12-28/alexa-a-witness-to-murder-prosecutors-seek-amazon-echo-data)
+At the same time, it is important to maintain the discourse on who has access to and owns the data that we produce, whether actively (through intentional production) or passively (through the trail we leave as we move through the digital landscape). This raises issues as it relates to privacy, especially in in the age of the Internet of Things, where more and more passive components of our lives have the capability of becoming listening posts. Especially as connectivity of devices becomes increasingly embedded and the fact that an object may be able to do more than what its affordances would suggest becomes easily missed or overlooked. The issue to whether a device such as Amazon’s Alexa or Google’s Home could become passive [witnesses in the case of criminal activity]( bloomberg.com/news/articles/2016-12-28/alexa-a-witness-to-murder-prosecutors-seek-amazon-echo-data), will make for interesting precedents to be set about privacy in the future.
   
 In the case of “ An Open-Source Strategy for Documenting Events: The Case Study of the 42nd Canadian Federal Election on Twitter”, it gives rise to an interesting tension between the need to capture data for historical purposes, and privacy issues that may interfere with that. How fine is the line between public good and invasion of privacy? The issue is further muddied in today's conflict landscape, where there are seemingly no rules that extreme factions are willing to abide by. It leads one to wonder if this is the new reality in terms of privacy, in which content that we publish to social media platforms, whether to a closed audience or mass audience, just becomes part of public record, along with any ancillary data that goes along with it, such as location, etc. Is there a way back from this, or is that just the way it is now?
   
