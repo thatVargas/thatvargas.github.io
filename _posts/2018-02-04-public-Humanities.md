@@ -39,7 +39,7 @@ _PLEASE NOTE: This is currently being re-formatted_
   
 * _"Other metadata similarities may be observed, such as similar screen names, similar profile pictures, similar slogans or hashtags in the user bio, etc. When any of these similarities appear among accounts that exhibit other bot-like or sockpuppet-like traits, there is significant likelihood of a botnet/socknet."_  
 
-Weird - it is interesting how in this context it seems ok to use metadata to "track down" bots and sock puppets for research purposes by an academic. However, when we hear that the government is doing this with metadata from our cellphones, then we are all up in arms about privacy. This speaks to a mistrust of government, as well as trust in the assumed altruistic nature of academia. On either sides of the coin, this is a trust that can be misplaced.  
+  Weird - it is interesting how in this context it seems ok to use metadata to "track down" bots and sock puppets for research purposes by an academic. However, when we hear that the government is doing this with metadata from our cellphones, then we are all up in arms about privacy. This speaks to a mistrust of government, as well as trust in the assumed altruistic nature of academia. On either sides of the coin, this is a trust that can be misplaced.  
 
 * _"It's easy to jump on the bots, but fully automated accounts are only part of the problem when it comes to disinformation and harassment. In addition to bots, which are accounts that are fully automated and controlled by code (or an app) set up by a human user, there are two other categories of high-volume accounts that we have seen in our research"_  
 
