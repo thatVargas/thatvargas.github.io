@@ -11,10 +11,11 @@ _PLEASE NOTE: This is currently being re-formatted_
   
 ### Crime, Controversy and the Comments Section
   
-* _"I (Winters) am inclined to view it as an option for future content rather than a wholesale replacement of more traditional peer review (despite its imperfections)."_  
-	* Perhaps this is a good intermediary step, in which it retains the seriousness of the traditional academic platforms, but provides some of the accessibility to try to gain new audiences.  
-*_ "Although most reviewers responded favourably to our requests, some were reluctant to abandon the traditional system and were uncomfortable with committing to a public (perhaps critical) review."_  
-	*  Wondering - Is this also another dimension of the Change management that needs to happen to make people more interested in long-form reading? Do we need to convince the content producers as well, to embrace new forms of more accessible publishing so that they can increase their public profile, and as a result create/improve their status as a credible and quotable source by the public at large, rather than reigning in the obscurity of academic circles?  
+* _"I (Winters) am inclined to view it as an option for future content rather than a wholesale replacement of more traditional peer review (despite its imperfections)."_ 
+
+Perhaps this is a good intermediary step, in which it retains the seriousness of the traditional academic platforms, but provides some of the accessibility to try to gain new audiences.  
+
+*_ "Although most reviewers responded favourably to our requests, some were reluctant to abandon the traditional system and were uncomfortable with committing to a public (perhaps critical) review."_  Wondering - Is this also another dimension of the Change management that needs to happen to make people more interested in long-form reading? Do we need to convince the content producers as well, to embrace new forms of more accessible publishing so that they can increase their public profile, and as a result create/improve their status as a credible and quotable source by the public at large, rather than reigning in the obscurity of academic circles?  
 * _"This vlog was used to overcome public outreach challenges such as the inaccessibility of the site to people with mobility issues, and a population that were resistant to archaeological interpretations of the Pillar of Eliseg."_ 
 	*  Wondering - It does make me wonder if the additional skillsets of video production, storytelling in different mediums, etc., somehow dilute the power of the narrative message for academia. I.e. Does it take away from time otherwise spent on research and writing, or do things get dropped because they just don‚Äôt work with a medium, that may otherwise increase the academic quality of an output?  
 *_"Online activism significantly augments other forms of protest, though it may leave the protestor more open to reprisals"_  
