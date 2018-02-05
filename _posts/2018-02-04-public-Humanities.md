@@ -9,7 +9,7 @@ _PLEASE NOTE: This is currently being re-formatted_
   
 ## DH Practice  
   
-### **Crime, Controversy and the Comments Section**  
+### Crime, Controversy and the Comments Section
   
 * I (Winters) am inclined to view it as an option for future content rather than a wholesale replacement of more traditional peer review (despite its imperfections).  
 	* Perhaps this is a good intermediary step, in which it retains the seriousness of the traditional academic platforms, but provides some of the accessibility to try to gain new audiences.  
@@ -31,14 +31,14 @@ _PLEASE NOTE: This is currently being re-formatted_
 * It's easy to jump on the bots, but fully automated accounts are only part of the problem when it comes to disinformation and harassment. In addition to bots, which are accounts that are fully automated and controlled by code (or an app) set up by a human user, there are two other categories of high-volume accounts that we have seen in our research  
 	*  Worrying - The way the author writes of them here, he makes it sound like these bots came into being on their own ,which is not necessarily the case. These bots are programmed with rules and code that come from a human (the majority of the time), which means that the intent is human, not bot.   So why is this worrying? Because we seem to be ascribing a certain amount of agency to something that does not inherently have it. This also means that at some point, we may seek to ascribe responsibility and accountability to it.   Also worrying is that if we do this for long enough, then we come to believe it. We should never forget where this comes from. We lose our humanity when we give it away or stop being mindful about intent.  
   
-### **The argument made by the absence**  
+### The argument made by the absence 
   
 * When we ask ourselves, as classicists, why we are such a non-diverse field we must consider whether we make it easy for people of color to want to study the ancient world.   
 	*  Wondering - I read the term "classicists" and I begin to think of the scent of irony ion that term in the context of this article. While Greece and Rome were very influential in the world, there are also other areas (such as the orient or the Middle East) that also gave us much, and yet we continue with this segregation. I see Bond's argument as pointing out an expression of power based on marble as a raw material, however, the argument itself is couched in a kind of academic hegemony that should also not be ignored. Which is to say that when we speak against bias, we must also remain aware of the context from which we are speaking. To protest is one thing, while to protest from the safety of an "ism" is quite another. I'm not saying we can't do it though, I'm just saying that we need to be mindful of where we speak from, lest it weaken our argument if we come across as hypocritical or naive.  
   
 ## Economics  
   
-### **Crime, Controversy and the Comments Section**  
+### Crime, Controversy and the Comments Section 
   
 * A variation on the short form can be found in micro-blogging on sharing platforms such as Tumblr, Pinterest, Twitter, and Facebook as well as a myriad of other websites and phone applications.   
 	*  Wondering - is the decrease of the long-from engagement with content a result of the ever increasing minimization of the tool s and platforms that enable us to increasingly put content out that is shorter and shorter? I.e. does the introduction of concepts such as micro-blogging encourage us to generate content from a stream of consciousness that we rarely return to and edit or correct, and in doing some, trap us in some weird feedback loop in which we are continually looking for our next endorphin fix, rather than seeking to get more informed?   If a platform‚Äôs ability to generate more predictive data on behaviour so that it can then turn around and sell it for profit is dependent on frequency of use, then it seems that corporate and societal goals are at odds on this one, given the platforms want you to keep posting content as often as possible, which could be counter to the goal of giving time to engage with a concept more meaningfully and allow for analysis and the follow-through of skepticism on the claims of a headline or a meme?  
@@ -50,14 +50,14 @@ _PLEASE NOTE: This is currently being re-formatted_
 * One possible explanation is that their advertising tools aren’t as useful and powerful as these companies claim, and advertisers are wasting money when they purchase these services.  
 	*  Wondering - another is that they could be ignoring them because it pads their numbers. Advertising, after all, is bought and sold based on impressions and qualified leads. Perhaps they may even be filtering the sock puppets and bots from data analysis without telling anyone.   
   
-### **Javascript is for Girls**  
+### Javascript is for Girls 
   
 * "But it is often seen by men as a reduction of their status. Because, historically speaking, the more women in a profession, the lower paid it is."  
 	*  Wondering - is this because more women enter that profession, or because there are simply more people in that profession? In any economic system, when the demand for a resource stays the same, but the supply goes up, the unit price for that resource goes down (equilibrium price). I'm not trying to dispel the argument, but am simply wondering if the data is being skewed to serve the argument?  
   
 ## Discourse  
   
-### **Crime, Controversy and the Comments Section**  
+### Crime, Controversy and the Comments Section 
   
 * discuss the current affordances of blogging as a publication format and as a "community of practice," encompassing a network of shared expectations  
 	*  Wondering - does this scale? In that, do the shared expectations change or are they as meaningful the more micro one gets in the medium?  
@@ -69,14 +69,14 @@ _PLEASE NOTE: This is currently being re-formatted_
 * Twitter is not a neutral platform. The specific affordances, limitations, and policies of the platform facilitate certain kinds of user behavior, and Twitter's employees make choices about how to respond (or not) to that behavior, and how to tweak the platform in light of the ways it is used.   
 	*  Wondering - I find it interesting how we have come to think of social media as needing to keep this public good concept in mind. It really speaks to the power of it, especially since we seem to be saying that we need to have arbiters and facilitators to make sure that we're all ‚Äúplaying nice‚Äù.   This also makes me wonder, does social media at some point start inscribing values unto society, rather than the other way around?  
   
-### **Twitter propaganda during ‘Unite the Right**  
+### Twitter propaganda during ‘Unite the Right  
   
 * the majority of the tweets are generated by a much smaller minority of high-volume accounts. The top 10% of accounts by tweet volume account for approximately 50% of the tweets, and the top 5% of accounts generated approximately 37% of the tweets.  
 	*  Wondering - How different is this from the more traditional media? In other words, although social media allows for anyone to have a voice, we seem to gravitate towards a small subset of the available voices on social media platforms, perhaps replicating the structure of more traditional media as a way of prioritizing information by assigning credibility to a smaller subset of content creators.  
   
 ## Media Literacy  
   
-### **Crime, Controversy and the Comments Section**  
+### Crime, Controversy and the Comments Section 
   
 * Twitter relies on 140 word updates  
 	*  Wondering - is this a typo or a lack of understanding of the medium? The irony is not lost on me here if it is the latter. It does, however, speak to the fact that we may not always fully understand the underlying infrastructures and support and/or obstruct our abilities o communicate or even engage with ideas or each other. Which may lead to additional interactions with them, as we seek to ensure that our messages to the work are in fact being heard by someone.  
@@ -93,12 +93,12 @@ _PLEASE NOTE: This is currently being re-formatted_
 * Other times it is more subtle. For example, rather than automating the content creation, the perpetrators may be coordinating efforts on another site (4chan, Reddit, Discord, etc.) and reproducing language from a shared script, but doing so non-uniformly.  
 	*  Weird - not only is this classic misinformation and propaganda, but it. Also very familiar as marketing tactics, as a way of creating top of mind awareness for something by saturating information channels with your message. If this message can become memetic and viral, all the better!  
   
-### **The argument made by the absence**  
+### The argument made by the absence 
   
 * This assemblage of neon whiteness thus creates a false sense of homogeneity across the Mediterranean world.  
 	*  Wondering - This is an interesting parallel to the notion that we may be creating a similar "false sense of homogeneity" in ideas through the prevalence of disinformation campaigns and tactics through online media platforms that go largely unchallenged by the masses. Does this kind of distortion affect, not only the present, but how we look back on this in the future? Are we capturing enough of the nuances "at the margins" so as to be able to get a more fulsome sense of the present discourse in the future? Will we be able to draw the conclusions of cause and effect from a possibly incomplete historical record?  
   
-### **Twitter propaganda during ‘Unite the Right**  
+### Twitter propaganda during ‘Unite the Right  
   
 * Censorship is no longer a silencing of a voice by force, but a flooding of the information landscape with so much disinformation that the truth is covered.  
 	*  I would say that although a different kind of force, this is still force nonetheless. It is the overpowering of an individual (in this case from a cognitive perspective) into accepting a certain point of view.   
