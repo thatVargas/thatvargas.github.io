@@ -88,7 +88,7 @@ Wondering - is this the difference between a more operational/tactical approach 
 
 ### Making things: Photobashing as Archaeological Remediation?
 
-*_"The relationship between how something looks and feels in reality, how it looks and feels in a photo and how it looks and feels in an artistic render and how we can navigate, understand and reflect between these spaces."_
+* _"The relationship between how something looks and feels in reality, how it looks and feels in a photo and how it looks and feels in an artistic render and how we can navigate, understand and reflect between these spaces."_
 
 Wonderful - I really like the concept of this as something akin to generating an emotional interpretation (read: subjective, personal, organic) of what is seen. Even though this is generated digitally, and therefore reproducible, it is somewhat closer to art, given  that the interpretative layer is superimposed on top of the "real" layer in terms of what the camera captures as a fixed eye of sorts.  I also find this to be metaphorical of how we interpret the past and present world around us, in that we impose that interpretative layer on top of the way something "is" and turn into what we "interpret it to be".
 
