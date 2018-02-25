@@ -28,13 +28,15 @@ Wondering - Do we want normal people to be creative or is creative just the new 
 I find this problematic in that it creates "classes" of creativity that may in fact discount certain aspects of creativity or certain acts of creativity, simply because one is a child or an adult. It can also have an effect of limiting the types of people and knowledge domains that can be creative, which I also find problematic.
 
 * _"It's also telling that a lot of the creativity research is sponsored by the military, with the goal of enhancing workflow and generating better ideas"_
- I don't find this surprising, given that creativity is largely about being able to find less-obvious solutions to problems within given constraints.
+
+I don't find this surprising, given that creativity is largely about being able to find less-obvious solutions to problems within given constraints.
 
 * _"game is about pleasure, not productivity"_
 
 Unless it's both, like in the case of FoldIT, an online proline folding game, whose outputs actually help inform research for curing diseases. Phyllo (from McGill university is another example. http://phylo.cs.mcgill.ca/
  
 ## Evolution of Discipline
+
 ### Digital Practice as Meaning Making in Archaeology
 
 * _"Far from being a definitive statement, we see these articles as being the opening words of a conversation that will continue indefinitely and which will provoke new ways of thinking about our discipline and those that work within it."_  
@@ -94,5 +96,10 @@ Wonderful - I really like the concept of this as something akin to generating an
 
 ### Making software that celebrates creativity
 
-* _"website like colourlovers.com, and polyvore.com, and even in tiny or seemingly silly pieces of software like memegenerator. 
- These should also include sites such as IMGUR and Reddit, whose communities will upvote content that they like, providing validation  and additional feels that may get these casual creators going back for more."_
+* _"website like colourlovers.com, and polyvore.com, and even in tiny or seemingly silly pieces of software like memegenerator._
+
+Wondering - These should also include sites such as IMGUR and Reddit, whose communities will upvote content that they like, providing validation  and additional feels that may get these casual creators going back for more.
+
+* _"creativity is both restricted and supported to allow greater accessibility, ease of use, and, perhaps, greater creativity because of that."
+
+Wondering - creativity is both restricted and supported to allow greater accessibility, ease of use, and, perhaps, greater creativity because of that.
