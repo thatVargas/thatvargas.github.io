@@ -15,7 +15,7 @@ _PLEASE NOTE: This is currently being re-formatted_
 
 Wondering - if creativity is the new normal, is this kind of software enabling us to think through concepts, kind of like the way artists and designers use sketches to work through a concept before committing it to a more high-fidelity version.  In this vein, I wonder if the idea of a casual creator can branch out and differentiate casual creators from those who use this type of software as a way to wireframe or rapid-prototype ideas before committing heavier resources to them. 
 
-* _"Why do we want "normal" people to be creative?
+* _"Why do we want "normal" people to be creative?_
 
 Wondering - Do we want normal people to be creative or is creative just the new normal?"_
 
