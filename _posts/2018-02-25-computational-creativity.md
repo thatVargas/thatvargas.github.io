@@ -3,7 +3,7 @@ layout: post
 title: "Computational Creativity - Are friends electric?"
 ---
 
-<span style="display:block;text-align:center">![ A stylized image of the side of a building, in which part of the wall is painted to look like a books on a shelf.](/images/public-humanities.jpg "Credit:https://www.flickr.com/photos/andrevanbortel/3745527869")</span>
+<span style="display:block;text-align:center">![ A stylized image of the side of a building, in which part of the wall is painted to look like a books on a shelf.](/images/comp-create.jpg "Credit:https://en.wikipedia.org/wiki/Sophia_(robot)#/media/File:Sophia_(robot)_2.jpg")</span>
 
 _PLEASE NOTE: This is currently being re-formatted_
   
