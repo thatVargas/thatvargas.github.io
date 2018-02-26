@@ -35,7 +35,7 @@ I don't find this surprising, given that creativity is largely about being able 
 
 Unless it's both, like in the case of FoldIT, an online proline folding game, whose outputs actually help inform research for curing diseases. Phyllo (from McGill university is another example. http://phylo.cs.mcgill.ca/
  
-## Evolution of Discipline
+## Towards an Evolution of the Discipline
 
 ### Digital Practice as Meaning Making in Archaeology
 
