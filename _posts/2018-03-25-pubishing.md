@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Publishing - is content is dropped in the forest..."
+title: "Publishing - if content is dropped in the forest..."
 ---
 
 _PLEASE NOTE: This is currently being re-formatted_
@@ -12,6 +12,7 @@ _PLEASE NOTE: This is currently being re-formatted_
 **Wondering** - as an extension to this I would also add the notion of caring enough about one's ideas to make them as viable as possible through thoughtful engagement with them and research.
 
 *"Many can write, but far fewer can and do publish."* 
+
 **Wondering** - perhaps this is one of the paramount differentiators for an author, the acknowledgement by an external actor to back the knowledge generated (whether with money or with reputation) and to make it available through its networks. Today the dissemination of text for a public is just a tweet away, thus authorship is available to an unprecedented number of people
 
 **Wondering** - I'd be reticent to ascribe a term such as authorship in this context, given that it may lack the depth that one expects in an academic context. Just because you can write something does not make you a writer, in the professional sense of the word. The same should be said for authoring.
@@ -49,7 +50,7 @@ _PLEASE NOTE: This is currently being re-formatted_
 
 *"our reputation capital"*
 
-Social capital is a strong influencer in many different aspects. This would be an interesting way to calibrate engagement in the production of knowledge.
+**Wondering** - Social capital is a strong influencer in many different aspects. This would be an interesting way to calibrate engagement in the production of knowledge.
 
 *"Some commenters on the volume wisely raised concerns about its potential downsides. Might unfiltered comments on an Internet forum, where poorly-chosen words have consequences beyond their intended meaning, risk public humiliation for authors?"*
 
